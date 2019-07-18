@@ -15,3 +15,5 @@ Non connecté, vous ne voyez que la liste des plantes au catalogue.
 Connecté, vous pouvez:
 - ajouter une plante à votre Potager
 - supprimer une plante de votre potager
+
+Vous pouvez vous connecter avec les emails et mots de passe fournis par Qualia.
